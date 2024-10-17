@@ -74,7 +74,8 @@
 ![8.6.png](img%2F8.6.png)
 ![7.1 (2).png](img%2F7.1%20%282%29.png)
 ![7.1 (1).png](img%2F7.1%20%281%29.png)
-
+![7.2.png](img%2F7.2.png)
+![7.3.png](img%2F7.3.png)
 ----
 ## 7.결과출력 저장
 ![s.png](img%2Fs.png)
