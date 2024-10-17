@@ -1,0 +1,10 @@
+﻿  OpenCVDlgDlg.cpp
+D:\Work\OpenCV\OpenCVML\OpenCVDlg\OpenCVDlgDlg.cpp(182,10): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  4 of 240 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  OpenCVDlg.vcxproj -> D:\Work\OpenCV\OpenCVML\OpenCVDlg\x64\Release\OpenCVDlg.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
